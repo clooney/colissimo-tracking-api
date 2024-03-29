@@ -1,9 +1,9 @@
 # TrackingMore: Colissimo Tracking API
-[Colissimo Tracking API](https://www.trackingmore.com/colissimo-tracking-api.html) enables you to connect tracking info of Colissimo shipments into your system, improving shipment visibility. 
+[Colissimo Tracking API](https://www.trackingmore.com/colissimo-tracking-api.html) streamlines the incorporation of Colissimo's shipping data into your system, elevating tracking efficiency and oversight. 
 
-Besides Colissimo, TrackingMore supports shipment tracking across 1,200+ global carriers through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
+With TrackingMore, the scope of tracking expands, providing an [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api) that aggregates data across over 1,200 global carriers, offering a unified tracking solution.
 
-TrackingMore provides API compatibility with seven programming languages. Comprehensive documentation for setup and use is included within this repository to facilitate the integration process.
+The TrackingMore API is compatible with seven programming languages and paired with extensive documentation to simplify integration and ensure a seamless setup process.
 
 ### Features
    *  Unified real-time tracking information for Colissimo shipments.
@@ -11,7 +11,7 @@ TrackingMore provides API compatibility with seven programming languages. Compre
 
 ### Tracking Status Glossary
 
-We categorize shipment statuses into clear, concise strings like pending, notfound, transit, and more, each indicating a specific stage in the shipment's journey.
+TrackingMore categorizes shipment statuses into clear, concise strings like pending, notfound, transit, and more, each indicating a specific stage in the shipment's journey.
 String | Description 
 ----|------
 inforeceived | The courier has received the package info and is about to pick up the package.
